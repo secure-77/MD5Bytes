@@ -2,11 +2,12 @@
 
 ## help
 
+```
 Help
 md5bytes <wordlist> <inputfile> <outputfile>
 -c       check mode
 -h       show this help
-
+```
 
 ## check mode
 ```
